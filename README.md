@@ -4,10 +4,13 @@
 
 [\[🚀 Quick Start\]](#quick-start-with-huggingface)  [\[🌐 Community-hosted API\]](https://rapidapi.com/adushar1320/api/internvl-chat)  [\[📖 中文解读\]](https://zhuanlan.zhihu.com/p/675877376)
 
-<a href="https://trendshift.io/repositories/9803" target="_blank"><img src="https://trendshift.io/api/badge/repositories/9803" alt="OpenGVLab%2FInternVL | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/9803" target="_blank"><img src="https://trendshift.io/api/badge/repositories/9803" alt="OpenGVLab%2FInternVL | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>&nbsp;&nbsp;
+<img height="55" alt="image" src="https://github.com/OpenGVLab/InternVL/assets/23737120/354aa3b7-0129-49b7-94ae-c4deb755051f">
+
 
 ## News🚀🚀🚀
 
+- `2024/05/30`: 🚀 🚀 We release [ShareGPT-4o](https://sharegpt4o.github.io/), a groundbreaking large-scale resource that we plan to open-source with 200K meticulously annotated images, 10K videos with highly descriptive captions, and 10K audio files with detailed descriptions.
 - `2024/05/29`: 🚀 We release the Mini-InternVL-Chat series, which includes two models: [Mini-InternVL-Chat-2B-V1-5](https://huggingface.co/OpenGVLab/Mini-InternVL-Chat-2B-V1-5) and [Mini-InternVL-Chat-4B-V1-5](https://huggingface.co/OpenGVLab/Mini-InternVL-Chat-4B-V1-5). Our small models achieve impressive performance with minimal size: the 2B model delivers 80% of the performance with only 8% of the model size, and the 4B model achieves 90% of the performance with just 16% of the model size. For more details, please check our [blog](https://internvl.github.io/blog/2024-05-25-Mini-InternVL-1.5/).
 - `2024/05/28`: Thanks to the [lmdeploy](https://github.com/InternLM/lmdeploy) team for providing AWQ quantization support. The 4-bit model is available at [OpenGVLab/InternVL-Chat-V1-5-AWQ](https://huggingface.co/OpenGVLab/InternVL-Chat-V1-5-AWQ).
 - `2024/05/13`: 🔥 InternVL can now be used as the [text encoder](https://huggingface.co/OpenGVLab/InternVL-14B-224px) for diffusion models to support multilingual generation natively in over 110 languages worldwide. See [MuLan](https://github.com/mulanai/MuLan) for more details.
